@@ -7,3 +7,6 @@ haystackvideo.herokuapp.com
 settings.crashlytics.com
 www.google.com
 play.googleapis.com
+api-stb-kaon.ug-af31.cdn.united.cloud
+android.clients.google.com
+play-lh.googleusercontent.com
