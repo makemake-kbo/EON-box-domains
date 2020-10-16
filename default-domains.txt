@@ -1,3 +1,6 @@
 mtalk.google.com
 app-measurement.com
 google.com
+graph.facebook.com
+krms.ug.cdn.united.cloud
+haystackvideo.herokuapp.com
