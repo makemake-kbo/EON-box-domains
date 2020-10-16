@@ -4,3 +4,6 @@ google.com
 graph.facebook.com
 krms.ug.cdn.united.cloud
 haystackvideo.herokuapp.com
+settings.crashlytics.com
+www.google.com
+play.googleapis.com
