@@ -14,3 +14,4 @@ api-stb-kaon.ug-dr-rs.cdn.united.cloud
 fcm.googleapis.com
 www.googleapis.com
 googleapis.com
+api-stb-kaon.ug-af31.cdn.united.cloud
