@@ -10,3 +10,4 @@ play.googleapis.com
 api-stb-kaon.ug-af31.cdn.united.cloud
 android.clients.google.com
 play-lh.googleusercontent.com
+api-stb-kaon.ug-dr-rs.cdn.united.cloud
