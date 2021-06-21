@@ -12,3 +12,5 @@ android.clients.google.com
 play-lh.googleusercontent.com
 api-stb-kaon.ug-dr-rs.cdn.united.cloud
 fcm.googleapis.com
+www.googleapis.com
+googleapis.com
