@@ -5,7 +5,7 @@ graph.facebook.com
 krms.ug.cdn.united.cloud
 haystackvideo.herokuapp.com
 settings.crashlytics.com
-www.google.com
+google.com
 play.googleapis.com
 api-stb-kaon.ug-af31.cdn.united.cloud
 android.clients.google.com
